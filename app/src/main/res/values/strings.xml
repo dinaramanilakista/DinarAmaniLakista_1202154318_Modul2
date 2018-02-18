@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DINAR AMANI LAKISTA_1202154318</string>
+    <string name="pilih_menu">Pilih Menu:</string>
+    <string name="dine_in">Dine In</string>
+    <string name="take_away">Take Away</string>
+    <string name="pesan_sekarang">PESAN SEKARANG</string>
+    <string name="kopi">Coffe</string>
+    <string name="rp_30000">Rp. 30000</string>
+    <string name="komposisi">Komposisi :</string>
+    <string name="menu">Burger, Chicken, Sayur</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="note">Note</string>
+    <string name="pilih_pesanan">PILIH PESANAN</string>
+    <string name="name">Name</string>
+    <string name="identitas_pemesan">Identitas Pemesan:</string>
+    <string name="detail_customer">Detail Customer:</string>
+    <string name="Name">name</string>
+    <string name="no_meja">No. Meja:</string>
+    <string name="pilihpesanan">PILIH PESANAN</string>
+</resources>
